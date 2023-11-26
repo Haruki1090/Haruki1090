@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Haruki1090 (Japan)
+- 👀 I’m interested in iOS Application Development
+- 🌱 I’m currently learning Flutter(Dart) and Java.
+- 💞️ I’m looking to collaborate on team development of iOS apps, learning and working together
+- 📫 How to reach me ：　　　haruharu.com.109607@gmail.com
