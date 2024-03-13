@@ -1,5 +1,6 @@
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Haruki1009)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haruki1009)
 - 👋 Hi, I’m @Haruki1090 (Japan)
-- 👀 I’m interested in iOS Application Development
-- 🌱 I’m currently learning Flutter(Dart) and Java.
-- 💞️ I’m looking to collaborate on team development of iOS apps, learning and working together
-- 📫 How to reach me ：　　　haruharu.com.109607@gmail.com
+- 👀 I’m interested in Flutter Application Development
+- 🌱 I’m currently learning Flutter(Dart) and Python.
+- 📫 How to reach me ：　haruharu.com.109607@gmail.com
