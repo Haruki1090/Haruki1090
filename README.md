@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Haruki1090)
 # 所属
 **青山学院大学理工学部数理サイエンス学科 (2022年~)**
 
@@ -18,5 +19,9 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Haruki1090)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haruki1090&exclude=JupyterNotebook)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haruki1090)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Haruki1090)
