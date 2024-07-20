@@ -18,7 +18,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=flutter,firebase,dart,python,js,ts,nextjs,html,css,tailwind,react,php,wordpress,pr,ai,figma" />
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Haruki1090)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haruki1090)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haruki1090&exclude=JupyterNotebook)
 
