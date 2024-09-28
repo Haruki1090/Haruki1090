@@ -10,9 +10,7 @@
 |2023/6|（株）ソニーマーケティング共催学内ビジネスコンテスト出場|中間審査突破✨|
 |2023/11|上記ビジネスコンテスト最終審査会|オーディエンス賞受賞✨|
 |2024/7|Benesse2dayハッカソン出場|技術部門準優勝🥈|
-
-- Benesse2dayハッカソン（技術賞準優勝）における企画書および開発ログ
---> https://github.com/Haruki1090/benesse_hackathon_202407
+|2024/9|Mercari AI/LLM Hackathon|最優秀賞🏆|
 
 # 利用技術
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=flutter,firebase,dart,python,js,ts,nextjs,html,css,tailwind,react,php,wordpress,pr,ai,figma" />
