@@ -1,4 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=Haruki1090)
+# 活動
+**Notion Official Campus Leader**
+- イベントの開催
+- Notionの導入支援
+- コーチング
+- 社会人・法人研修
+
 # 所属
 **青山学院大学理工学部数理サイエンス学科 (2022年~)**
 
@@ -11,6 +18,7 @@
 |2023/11|上記ビジネスコンテスト最終審査会|オーディエンス賞受賞✨|
 |2024/7|Benesse2dayハッカソン出場|技術部門準優勝🥈|
 |2024/9|Mercari AI/LLM Hackathon|最優秀賞🏆|
+|2024/11|Notion社主催 Make with Notion Japan Community Event|登壇📣|
 
 # 利用技術
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=flutter,firebase,dart,python,js,ts,nextjs,html,css,tailwind,react,php,wordpress,pr,ai,figma" />
