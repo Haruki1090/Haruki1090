@@ -1,10 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Haruki1090)
 # 活動
 **Notion Official Campus Leader**
-- イベントの開催
-- Notionの導入支援
-- コーチング
-- 社会人・法人研修
 
 # 所属
 **青山学院大学理工学部数理サイエンス学科 (2022年~)**
