@@ -16,6 +16,7 @@
 |2024/9|Mercari AI/LLM Hackathon|最優秀賞🏆|
 |2024/11|Notion社主催 Make with Notion Japan Community Event|登壇📣|
 |2024/12|Softbank社sattoハッカソン|優勝🏆|
+|2025/3|外資就活ドットコム主催（Microsoft共催）ハッカソン|企業賞受賞🏆|
 
 # 利用技術
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=flutter,firebase,dart,python,js,ts,nextjs,html,css,tailwind,react,php,wordpress,pr,ai,figma" />
